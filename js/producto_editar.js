@@ -11,7 +11,7 @@ createApp({
             fechar: 0,
             fechai: 0,
             //url: 'http://localhost:5000/productos/' + id,
-            url: 'http://willchnl.pythonanywhere.com/productos/' + id,
+            url: 'https://willchnl.pythonanywhere.com/productos/' + id,
         }
     },
     methods: {
